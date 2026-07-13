@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Output images
+outputs/
+
+# Dataset
+data/KolektorSDD2/
+
+# Temporary files
+*.tmp
+*.log
+
+# macOS
+.DS_Store
