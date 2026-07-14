@@ -11,7 +11,7 @@ The project includes:
 - Training & validation pipeline
 - Dice Score & IoU evaluation
 - Inference module
-- Streamlit web application
+- Streamlit web application| **Live Demo:** https://industrial-surface-defect-detection.streamlit.app
 
 ---
 
